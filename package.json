@@ -1,14 +1,17 @@
 {
+  "homepage": "https://laskarevskiy73.github.io/goit-react-hw-04-advanced-reader/",
   "name": "goit-react-hw-04-advanced-reader",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "prop-types": "^15.7.2",
     "query-string": "^6.8.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "react-transition-group": "^4.2.1"
   },
   "scripts": {
     "start": "react-scripts start",
